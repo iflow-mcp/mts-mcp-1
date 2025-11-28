@@ -1,8 +1,7 @@
 {
-  "name": "mts-mcp",
+  "name": "@iflow-mcp/mts-mcp",
   "version": "0.1.0",
   "description": "A model context protocol that gives an LLM various skills",
-  "private": true,
   "type": "module",
   "bin": {
     "mts-mcp": "./build/index.js"
